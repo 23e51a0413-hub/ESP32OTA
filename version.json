@@ -1,4 +1,4 @@
 {
   "version": "1.0.1",
-  "firmware": "https://raw.githubusercontent.com/23e51a0413-hub/ESP32OTA/main/waternodeOTA.ino.bin"
+  "firmware": "https://23e51a0413-hub.github.io/ESP32OTA/waternodeOTA.ino.bin"
 }
