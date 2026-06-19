@@ -1,1 +1,5 @@
+{
+  "version": "4",
+  "firmware": "https://23e51a0413-hub.github.io/ESP32OTA/firmware.bin"
+}
 
